@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Simsiz sichqoncha",
+      "category": "Elektronika",
+      "price": 85000,
+      "stock": 20,
+      "description": "Kompyuter uchun simsiz sichqoncha.",
+      "barcode": "100001",
+      "active": true,
+      "createdAt": "2026-10-01T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Mexanik klaviatura",
+      "category": "Elektronika",
+      "price": 320000,
+      "stock": 8,
+      "description": "Mexanik tugmali klaviatura.",
+      "barcode": "100002",
+      "active": true,
+      "createdAt": "2026-10-01T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Quloqchin",
+      "category": "Aksessuarlar",
+      "price": 145000,
+      "stock": 3,
+      "description": "Kundalik foydalanish uchun quloqchin.",
+      "barcode": "100003",
+      "active": true,
+      "createdAt": "2026-10-01T10:00:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 7945939641,
+      "firstName": "T1lantov",
+      "username": "t1lantov",
+      "phone": "",
+      "address": "",
+      "favorites": [
+        1
+      ],
+      "createdAt": "2026-10-23T18:35:34.224Z",
+      "updatedAt": "2026-10-23T18:37:20.719Z"
+    }
+  ],
+  "orders": [],
+  "suppliers": [],
+  "movements": [],
+  "nextProductId": 4,
+  "nextOrderId": 1,
+  "nextSupplierId": 1
+}
